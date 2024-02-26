@@ -42,3 +42,7 @@ The backend architecture is based on microservices each of one perform a specifi
 - **Scheduler Service**: handle all the logic for tournament creation and management
 - **Simulation Service**: a simulation service which can simulates match (main idea is to use machine learning to achieve the task)
 - **Email Service**: to handle email verification, newsletter, notification, exc.
+<p>
+<img src="./assets/FtbSchedulerMicroservicesArchitecture.png">
+<em>Ftb Schduler microservices architecture schema</em>
+</p>
