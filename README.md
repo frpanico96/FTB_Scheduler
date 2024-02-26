@@ -39,6 +39,6 @@ The backend architecture is based on microservices each of one perform a specifi
 
 - **UserDetail Service**: to handle log-in and user registrations
 - **Log Service**: centralized service to log every meaningful event on the application
-- **Schheduler Service**: handle all the logic for tournament creation and management
+- **Scheduler Service**: handle all the logic for tournament creation and management
 - **Simulation Service**: a simulation service which can simulates match (main idea is to use machine learning to achieve the task)
-- **Email Service**: to handle email verification, newsletter, notification exc.
+- **Email Service**: to handle email verification, newsletter, notification, exc.
